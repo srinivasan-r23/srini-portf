@@ -168,7 +168,7 @@ export const projects = [
   {
     iconUrl: devtinder,
     theme: "btn-back-red",
-    name: "Dev Tiner - MERN",
+    name: "Dev Tinder - MERN",
     description:
       "Developed a MERN stack app called DevTinder, allowing users to create profiles, update their skills, and find matches based on their expertise.",
     link: "https://github.com/srinivasan-r23/DevTinder",
