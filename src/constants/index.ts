@@ -176,7 +176,7 @@ export const projects = [
   {
     iconUrl: threads,
     theme: "btn-back-green",
-    name: "Netfix - GPT",
+    name: "Netflix - GPT",
     description:
       "Created a Netflix clone using React.js, featuring GPT-4 integration for personalized movie suggestions.",
     link: "https://github.com/srinivasan-r23/netflixgpt",
