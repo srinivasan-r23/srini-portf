@@ -24,6 +24,13 @@ import {
   threads,
   typescript,
   java,
+  award1,
+  award2,
+  award3,
+  award4,
+  award5,
+  award6,
+  award7,
 } from "../assets/icons/index.ts";
 
 export const skills = [
@@ -229,5 +236,43 @@ export const projects = [
     description:
       "Built clones of WhatsApp, Netflix, Tinder, and Hotstar using React and Firebase, featuring core functionalities like messaging, streaming, and user authentication.",
     link: "https://github.com/srinivasan-r23/ReactJS-NextJS_Clone_Builds",
+  },
+];
+
+export const awards = [
+  {
+    imageUrl: award1,
+    name: "Making a Difference",
+    type: "AT&T",
+  },
+  {
+    imageUrl: award2,
+    name: "Move Faster",
+    type: "AT&T",
+  },
+  {
+    imageUrl: award3,
+    name: "New Product Introduction",
+    type: "AT&T",
+  },
+  {
+    imageUrl: award4,
+    name: "Client Value Creation",
+    type: "Accenture",
+  },
+  {
+    imageUrl: award5,
+    name: "Embracing shared success",
+    type: "Accenture",
+  },
+  {
+    imageUrl: award6,
+    name: "Skills Star Award",
+    type: "Accenture",
+  },
+  {
+    imageUrl: award7,
+    name: "Client Value Creation",
+    type: "Accenture",
   },
 ];

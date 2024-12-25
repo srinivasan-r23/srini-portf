@@ -24,6 +24,13 @@ import summiz from "./summiz.svg";
 import threads from "./threads.svg";
 import arrow from "./arrow.svg";
 import contact from "./contact.svg";
+import award1 from "./award1.svg";
+import award2 from "./award2.svg";
+import award3 from "./award3.svg";
+import award4 from "./award4.svg";
+import award5 from "./award5.svg";
+import award6 from "./award6.svg";
+import award7 from "./award7.svg";
 
 export {
   css,
@@ -52,4 +59,11 @@ export {
   threads,
   arrow,
   contact,
+  award1,
+  award2,
+  award3,
+  award4,
+  award5,
+  award6,
+  award7,
 };

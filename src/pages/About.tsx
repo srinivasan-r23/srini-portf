@@ -7,10 +7,9 @@ import { CTA } from "../components";
 
 import "react-vertical-timeline-component/style.min.css";
 import { experiences, skills } from "../constants";
+import Awards from "../components/Awards";
 
 const About = () => {
-
-
   return (
     <section className="max-container">
       <h1 className="head-text">
@@ -50,7 +49,7 @@ const About = () => {
       </div>
 
       <div className="py-16">
-        <h3 className="subhead-text">Work Experience.</h3>
+        <h3 className="subhead-text">Work Experience</h3>
         <div className="mt-5 flex flex-col gap-3 text-slate-500">
           <p>
             I’ve had the opportunity to work with a range of companies, growing
@@ -110,6 +109,7 @@ const About = () => {
         </div>
       </div>
 
+      <Awards />
       <hr className="border-slate-200" />
 
       <CTA />
