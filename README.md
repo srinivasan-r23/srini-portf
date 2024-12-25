@@ -1,50 +1,16 @@
-# React + TypeScript + Vite
+Hi, I’m Srinivasan Rangarajan, a passionate Frontend Developer with 4+ years of experience crafting dynamic, responsive, and user-friendly web applications. My journey started with a love for coding and technology, and today, I take pride in turning innovative ideas into seamless digital experiences.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+At AT&T, I contributed to creating high-performance web applications, driving a 25% increase in conversions and 30% faster page loads. From server-side rendering that improved SEO to orchestrating efficient API workflows with Node.js, I’ve always enjoyed finding smart, scalable solutions to complex problems.
 
-Currently, two official plugins are available:
+Before that, at Accenture, I worked on transforming eCommerce platforms, building reusable React.js components, and automating workflows that saved countless hours for my team. Beyond coding, I thrive in roles where I can mentor and guide others, fostering a culture of collaboration and growth.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+What I bring to the table:
+-> Expertise in React.js, JavaScript (ES6+), and modern frontend tools.
+-> A problem-solving mindset, with a proven track record of improving performance and scalability.
+-> A passion for building clean, efficient, and maintainable code.
+-> Leadership skills honed by mentoring teams and delivering results in fast-paced environments.
 
-## Expanding the ESLint configuration
+Why I love what I do:
+I believe the best web applications aren’t just functional—they’re delightful. Whether it’s enhancing user experiences, optimizing performance, or leading a team to success, I’m driven by the impact my work has on people’s lives and businesses.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+Let’s connect if you’re as excited about building future-ready web solutions as I am. I’m always up for a challenge and a good conversation about tech, innovation, or how small tweaks can make a big difference.
