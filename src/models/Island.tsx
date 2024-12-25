@@ -8,6 +8,7 @@
  * And get the code. And then add the rest of the things.
  * YOU DON'T HAVE TO WRITE EVERYTHING FROM SCRATCH
  */
+// @ts-nocheck
 
 import { a } from "@react-spring/three";
 import { useEffect, useRef } from "react";

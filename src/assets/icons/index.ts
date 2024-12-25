@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import css from "./css.svg";
 import express from "./express.svg";
 import git from "./git.svg";

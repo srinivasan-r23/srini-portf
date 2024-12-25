@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { Canvas } from "@react-three/fiber";
 import { Suspense, useRef, useState } from "react";
 

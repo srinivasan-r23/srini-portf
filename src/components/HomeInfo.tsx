@@ -2,7 +2,11 @@ import { Link } from "react-router";
 
 import { arrow } from "../assets/icons/index.ts";
 
-const HomeInfo = ({ currentStage }) => {
+interface HomeInfoProps {
+  currentStage: number;
+}
+
+const HomeInfo = ({ currentStage }: HomeInfoProps) => {
   if (currentStage === 1)
     return (
       <h1 className="sm:text-xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5">

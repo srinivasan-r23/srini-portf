@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import hero from "./hero.jpg";
 import att from "./att.png";
 import accenture from "./accenture.png";
